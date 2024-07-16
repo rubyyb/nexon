@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#wrap {
+    position: relative;
+}
+
+
+
+.inner {
+    width: 2561px;
+    height: 1127px;
+    background: url('../img/bg_intro_a96a75385eb875e8.jpg') center center no-repeat;
+    position: relative;
+}
+
+.inner .main_line01 {
+    width: 505px;
+    height: 299px;
+    background: url('../img/obj_ribbon0_fcff5b780ca3856a.png') center center no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
